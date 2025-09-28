@@ -7,8 +7,8 @@
 
 🛜Informações de Contato:
 
-    LinkedIn: https://www.linkedin.com/in/t%C3%BAlio-gon%C3%A7alves-vieira-6576602b9
-    Email: tuliogonvieira@gmail.com
+LinkedIn: https://www.linkedin.com/in/t%C3%BAlio-gon%C3%A7alves-vieira-6576602b9
+Email: tuliogonvieira@gmail.com
 
 🎓Competências:
 
