@@ -20,7 +20,7 @@ Email: tuliogonvieira@gmail.com
 
     Minerva:
   
-      Link: [https://github.com/Tu-lho/minerva-app-front](https://github.com/Tu-lho/minerva-app-front)
+    Link: https://github.com/Tu-lho/minerva-app-front
       Descrição: Aplicativo de organização acadêmica
       Tecnologias: FrontEnd em linguagem Python com streamlit e RegEx para validação de entradas
       Status: Em andamento
